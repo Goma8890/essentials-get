@@ -1,5 +1,3 @@
 # Git Essentials / Git For Everybody
 
-> This is a course to teach you how to use everyday git.
-
-Course created by Antonio Goma.
+Some new stuff done in here (master branch)
